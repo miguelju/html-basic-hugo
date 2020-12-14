@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lan="en-US">
-    <head>
-        <meta charset="utf-8">
-        <title>{{.Site.Title}}</title>
-    </head>
-    <body>
-        <h1>{{.Title}}</h1>
-        {{.Content}}
-    </body>
-</html>
+{{define "main"}}
+<h2>{{.Title}}</h2>
+{{.Content}}
+{{end}}
