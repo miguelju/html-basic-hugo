@@ -7,7 +7,7 @@ draft: false
 
 Project two
 
-###Tech used
-*item
-*item
-*item
+### Tech used
+* item
+* item
+* item

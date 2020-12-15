@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Miguel's Site"
 theme = "basic"
+
+[params]
+Author = "Miguel Jackson"
+description = "My portfolio site"
