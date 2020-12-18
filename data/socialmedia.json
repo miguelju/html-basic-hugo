@@ -1,0 +1,13 @@
+{ "accounts":
+    [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/miguelju"
+        },
+
+        {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/in/migueljackson"
+        }
+    ]
+}
